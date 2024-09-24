@@ -26,8 +26,8 @@ Siempre curioso y creativo 🧠
 <!-- LANGUAGE & TOOLS -->
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr>
-    <th style="border: 1px solid #ddd; padding: 8px;">Language</th>
-    <th style="border: 1px solid #ddd; padding: 8px;">Tools</th>
+    <th style="border: 1px solid #ddd; padding: 8px;">Lenguajes</th>
+    <th style="border: 1px solid #ddd; padding: 8px;">Herramientas</th>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">
@@ -37,7 +37,7 @@ Siempre curioso y creativo 🧠
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://code.visualstudio.com/">
-        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>
+        <img height="48px" width="48px" alt="VS-Code Icon" src="https://skillicons.dev/icons?i=vscode"/>
       </a>
     </td>
   </tr>
@@ -49,11 +49,9 @@ Siempre curioso y creativo 🧠
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://github.com/">
-        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>
+        <img height="48px" width="48px" alt="GitHub Icon" src="https://skillicons.dev/icons?i=github"/>
       </a>
- 
-       <td style="border: 1px solid #ddd; padding: 8px;">
-
+    </td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">
@@ -63,14 +61,14 @@ Siempre curioso y creativo 🧠
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://git-scm.com/">
-        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>
+        <img height="48px" width="48px" alt="Git Icon" src="https://skillicons.dev/icons?i=git"/>
       </a>
     </td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://www.python.org/">
-        <img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=angular"/>
+      <a href="https://angular.io/">
+        <img height="48px" width="48px" alt="Angular Icon" src="https://skillicons.dev/icons?i=angular"/>
       </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;"></td>
