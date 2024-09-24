@@ -78,7 +78,7 @@ Siempre curioso y creativo 🧠
 ### 📫 Cómo contactarme:
 
 - **Email**: rubenromerodev@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/rub%C3%A9n-romero-caballero-b720472b8/
+- **LinkedIn**: https://www.linkedin.com/in/rubén-romero-caballero
   
 ### ⚡ Datos curiosos:
 
