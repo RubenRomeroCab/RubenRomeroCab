@@ -22,7 +22,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)**, actualmente en mi se
 
 ### 📫 Cómo contactarme:
 
-- **Email**: ruben@example.com
+- **Email**: rubenromerodev@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/rub%C3%A9n-romero-caballero-b720472b8/
 - **GitHub**: [Tu perfil de GitHub](https://github.com/RubenRomeroCab)
 
