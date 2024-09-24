@@ -7,28 +7,27 @@
 <img align="right" alt ="coding" width="700" src="https://technostupid.com/frontend/images/95116-coder.gif">
 
 <!-- DESCRIPTION -->
-👨🏾‍💻 **Moustapha Ibrahima Ba**
+👨🏾‍💻 **Ruben romero caballero**
 
-Passionate about **programming** 💻 
+Apasionado por la programación 💻
 
-Love sharing **knowledge** 📚 
+Me encanta compartir conocimiento 📚
 
-Computer Engineering Student 🧑🏾‍🎓 
+Estudiante de Ingeniería Informática 🧑🏾‍🎓
 
-Enthusiastic **Problem Solver** 🧩 
+Entusiasta en resolver problemas 🧩
 
-Lifelong **Learner** 📖 
+Aprendiz de por vida 📖
 
-Future Open-Source **Contributor** 🌐 
+Futuro contribuyente de código abierto 🌐
 
-Coding is my **Passion** ❤️ 
+Codificar es mi pasión ❤️
 
-Tech **Enthusiast** 🚀 
+Entusiasta de la tecnología 🚀
 
-Enjoy **Teaching** Others 🎓 
+Disfruto enseñando a otros 🎓
 
-Always **Curious** and **Creative** 🧠
-
+Siempre curioso y creativo 🧠
 <!-- LANGUAGE & TOOLS -->
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
   <tr>
@@ -81,16 +80,6 @@ Always **Curious** and **Creative** 🧠
   </tr>
 </table>
 
-<!-- QUOTE -->
-<p align="right">
-    <q>Passion drives me, Curiosity guides me</q> <br> 
-    - <b>Moustapha Ibrahima Ba<b> aka <i>mr-mib</i>
-</p>
-
-------
-Credit: [mr-mib](https://github.com/mr-mib)
-
-Last Edited on: 01/06/2024
 ### 📫 Cómo contactarme:
 
 - **Email**: rubenromerodev@gmail.com
