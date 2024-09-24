@@ -95,4 +95,4 @@ Siempre curioso y creativo 🧠
 ### ⚡ Datos curiosos:
 
 - Me apasiona el desarrollo web y siempre estoy buscando nuevas tecnologías para mejorar.
-- Soy fan de aprender haciendo: los proyectos personales son mi mejor método de aprendizaje.
+- Los proyectos personales son mi mejor método de aprendizaje.
