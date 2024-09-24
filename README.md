@@ -73,6 +73,14 @@ Siempre curioso y creativo 🧠
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;"></td>
   </tr>
+    <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://angular.io/">
+        <img height="48px" width="48px" alt="Angular Icon" src="https://skillicons.dev/icons?i=java"/>
+      </a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 8px;"></td>
+  </tr>
 </table>
 
 ### 📫 Cómo contactarme:
