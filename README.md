@@ -1,7 +1,7 @@
 ## 👋 Hola, soy Rubén Romero Caballero
 
 <!-- SVG TYPING -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+there+👋;Welcome+to+my+GitHub+profile!+🤗;My+name+is+Moustapha+Ibrahima+Ba+👨🏾;I+am+a+computer+science+engineering+student+🧑🏾‍🎓;I+am+passionate+about+programming+💻;I+love+sharing+knowledge+📚;I+am+an+enthusiastic+problem+solver+🧩;I+am+a+lifelong+learner+📖;I+would+like+to+be+an+open-source+contributor+🌐;Coding+is+my+passion+❤️;I+am+a+tech+enthusiast+🚀;I+enjoy+teaching+others+🎓;I+am+always+curious+and+creative+🧠)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=007FFF&size=35&center=true&vCenter=true&width=1000&lines=Hola+👋;¡Bienvenido+a+mi+perfil+de+GitHub!+🤗;Mi+nombre+es+Rubén+Romero+Caballero+👨🏾;Soy+estudiante+de+ingeniería+informática+🧑🏾‍🎓;Me+apasiona+la+programación+💻;Me+encanta+compartir+conocimientos+📚;Soy+un+entusiasta+de+resolver+problemas+🧩;Soy+aprendiz+de+por+vida+📖;Me+gustaría+ser+contribuyente+de+código+abierto+🌐;Programar+es+mi+pasión+❤️;Soy+un+entusiasta+de+la+tecnología+🚀;Disfruto+enseñar+a+otros+🎓;Siempre+soy+curioso+y+creativo+🧠)](https://git.io/typing-svg)
 
 <!-- ILLUSTRATION'S IMAGE -->
 <img align="right" alt ="coding" width="700" src="https://technostupid.com/frontend/images/95116-coder.gif">
@@ -13,15 +13,11 @@ Apasionado por la programación 💻
 
 Me encanta compartir conocimiento 📚
 
-Estudiante de Ingeniería Informática 🧑🏾‍🎓
-
 Entusiasta en resolver problemas 🧩
 
 Aprendiz de por vida 📖
 
 Futuro contribuyente de código abierto 🌐
-
-Codificar es mi pasión ❤️
 
 Entusiasta de la tecnología 🚀
 
