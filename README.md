@@ -41,6 +41,11 @@ Siempre curioso y creativo 🧠
       </a>
     </td>
   </tr>
+   <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img height="48px" width="48px" alt="HTML Icon" src="https://skillicons.dev/icons?i=html"/>
+      </a>
+    </td>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
