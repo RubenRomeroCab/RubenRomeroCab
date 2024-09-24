@@ -52,6 +52,11 @@ Siempre curioso y creativo 🧠
         <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>
       </a>
     </td>
+       <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://github.com/">
+        <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=boostrap"/>
+      </a>
+    </td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">
