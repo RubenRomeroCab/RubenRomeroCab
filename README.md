@@ -43,6 +43,18 @@ Siempre curioso y creativo 🧠
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://angular.io/">
+        <img height="48px" width="48px" alt="Angular Icon" src="https://skillicons.dev/icons?i=angular"/>
+      </a>
+    </td>
+    <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://getbootstrap.com/">
+        <img height="48px" width="48px" alt="Bootstrap Icon" src="https://skillicons.dev/icons?i=bootstrap"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img height="48px" width="48px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>
       </a>
