@@ -68,7 +68,7 @@ Siempre curioso y creativo 🧠
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://www.python.org/">
-        <img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>
+        <img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=angular"/>
       </a>
     </td>
     <td style="border: 1px solid #ddd; padding: 8px;"></td>
@@ -79,8 +79,7 @@ Siempre curioso y creativo 🧠
 
 - **Email**: rubenromerodev@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/rub%C3%A9n-romero-caballero-b720472b8/
-- **GitHub**: [Tu perfil de GitHub](https://github.com/RubenRomeroCab)
-
+- 
 ### ⚡ Datos curiosos:
 
 - Me apasiona el desarrollo web y siempre estoy buscando nuevas tecnologías para mejorar.
