@@ -51,11 +51,6 @@ Siempre curioso y creativo 🧠
         <img height="48px" width="48px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>
       </a>
     </td>
-    <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://github.com/">
-        <img height="48px" width="48px" alt="GitHub Icon" src="https://skillicons.dev/icons?i=github"/>
-      </a>
-    </td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">
