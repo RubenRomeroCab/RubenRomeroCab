@@ -40,13 +40,12 @@ Siempre curioso y creativo 🧠
         <img height="48px" width="48px" alt="VS-Code Icon" src="https://skillicons.dev/icons?i=vscode"/>
       </a>
     </td>
-  </tr>
-   <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img height="48px" width="48px" alt="HTML Icon" src="https://skillicons.dev/icons?i=html"/>
+        <td style="border: 1px solid #ddd; padding: 8px;">
+      <a href="https://code.visualstudio.com/">
+        <img height="48px" width="48px" alt="VS-Code Icon" src="https://skillicons.dev/icons?i=vscode"/>
       </a>
     </td>
-  <tr>
+    
     <td style="border: 1px solid #ddd; padding: 8px;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img height="48px" width="48px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>
