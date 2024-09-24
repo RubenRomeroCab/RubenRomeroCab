@@ -6,7 +6,7 @@
 <img align="right" alt ="coding" width="500" src="https://technostupid.com/frontend/images/95116-coder.gif">
 
 <!-- DESCRIPTION -->
-👨🏾‍💻 **Ruben Romero Caballero**
+👨🏾‍💻 **Rubén Romero Caballero**
 
 Apasionado por la programación 💻
 
