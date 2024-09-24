@@ -40,11 +40,6 @@ Siempre curioso y creativo 🧠
         <img height="48px" width="48px" alt="VS-Code Icon" src="https://skillicons.dev/icons?i=vscode"/>
       </a>
     </td>
-      <td style="border: 1px solid #ddd; padding: 8px;">
-      <a href="https://code.visualstudio.com/">
-        <img height="48px" width="48px" alt="VS-Code Icon" src="https://skillicons.dev/icons?i=java"/>
-      </a>
-    </td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 8px;">
