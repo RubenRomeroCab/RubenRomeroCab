@@ -79,7 +79,7 @@ Siempre curioso y creativo 🧠
 
 - **Email**: rubenromerodev@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/rub%C3%A9n-romero-caballero-b720472b8/
-- 
+  
 ### ⚡ Datos curiosos:
 
 - Me apasiona el desarrollo web y siempre estoy buscando nuevas tecnologías para mejorar.
