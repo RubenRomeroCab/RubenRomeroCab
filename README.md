@@ -4,7 +4,7 @@
 
 
 <!-- ILLUSTRATION'S IMAGE -->
-<img align="right" alt="coding" width="400" src="https://technostupid.com/frontend/images/95116-coder.gif">
+<img align="right" alt="coding" width="500" src="https://technostupid.com/frontend/images/95116-coder.gif">
 
 Mi proyecto actual  
 **¡Visítalo aquí!**  
