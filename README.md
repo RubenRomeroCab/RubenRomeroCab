@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://technostupid.com/frontend/images/95116-coder.gif">
 
 Mi proyecto actual
-**¡Visítala aquí!**  
+**¡Visítalo aquí!**  
 [https://compra-venta-1.vercel.app/home](https://compra-venta-1.vercel.app/home)
 
 <!-- DESCRIPTION -->
