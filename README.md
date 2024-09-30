@@ -5,6 +5,11 @@
 
 <img align="right" alt ="coding" width="500" src="https://technostupid.com/frontend/images/95116-coder.gif">
 
+Actualmente, estoy trabajando en un proyecto de desarrollo web enfocado en la integración de pasarelas de pago, como Stripe, con el objetivo de mejorar mis habilidades como programador. El proyecto es un e-commerce que permite a los usuarios comprar palés de productos de Amazon. Para el diseño y la creación de interfaces, estoy utilizando Bootstrap y Angular Material, lo que me está ayudando a perfeccionar mis habilidades en el desarrollo de interfaces intuitivas y funcionales. Este proyecto me brinda la oportunidad de combinar mi conocimiento en backend y frontend, mientras mejoro mi experiencia en tecnologías clave para el comercio electrónico.
+
+¡Visítala aquí! 
+https://compra-venta-1.vercel.app/home
+
 <!-- DESCRIPTION -->
 👨🏻‍💻 **Rubén Romero Caballero**
 
