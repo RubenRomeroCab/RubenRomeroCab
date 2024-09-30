@@ -100,12 +100,8 @@ Actualmente, estoy trabajando en un proyecto de desarrollo web enfocado en la in
    - **Tecnologías**: Angular, Bootstrap, Stripe, Node.js  
    - **Enlace**: [Visítalo aquí](https://compra-venta-1.vercel.app/home)
 
-2. **[Tu Segundo Proyecto Aquí]**  
-   - **Descripción**: Breve descripción del segundo proyecto en el que estés trabajando o que quieras destacar.
-   - **Tecnologías**: Tecnologías principales que usaste en este proyecto.
-   - **Enlace**: [Visítalo aquí](#)
-
-3. **[Tu Tercer Proyecto Aquí]**  
-   - **Descripción**: Breve descripción del tercer proyecto en el que estés trabajando o que quieras destacar.
-   - **Tecnologías**: Tecnologías principales que usaste en este proyecto.
-   - **Enlace**: [Visítalo aquí](#)
+2. **App estilo foro**  
+   - **Descripción**: En este proyecto, desarrollé la **interfaz frontend** de una aplicación tipo foro, colaborando con un **desarrollador fullstack** encargado del backend. Aprendí a implementar **rutas seguras** y a consumir **APIs** (Instagram y LinkedIn) con autenticación. Este proyecto me permitió profundizar en **Angular** y adquirir experiencia en el uso de herramientas como **Postman** para pruebas de APIs y **Docker** para la gestión de contenedores y despliegue.  
+   - **Tecnologías**: Angular, TypeScript, Bootstrap, API REST, Postman, Docker  
+   - **Enlace**: [Visítalo aquí](https://pre-patxi.apps-ds.com/)  
+   //- <img src="https://tu-repositorio.github.io/assets/segundo-proyecto.png" alt="Imagen del Segundo Proyecto" width="400"/>
