@@ -6,9 +6,9 @@
 <!-- ILLUSTRATION'S IMAGE -->
 <img align="right" alt="coding" width="400" src="https://technostupid.com/frontend/images/95116-coder.gif">
 
-Mi proyecto actual
+Mi proyecto actual  
 **¡Visítalo aquí!**  
-[https://compra-venta-1.vercel.app/home](https://compra-venta-1.vercel.app/home)
+<a href="https://compra-venta-1.vercel.app/home" target="_blank" rel="noopener noreferrer">https://compra-venta-1.vercel.app/home</a>
 
 <!-- DESCRIPTION -->
 👨🏻‍💻 **Rubén Romero Caballero**
