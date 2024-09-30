@@ -99,10 +99,4 @@ Mi proyecto actual
    - **Tecnologías**: Angular, Bootstrap, Stripe, Node.js  
    - **Enlace**: [Visítalo aquí](https://compra-venta-1.vercel.app/home)
 
-2. **App estilo foro**  
-   - **Descripción**: En este proyecto, desarrollé la **interfaz frontend** de una aplicación tipo foro, colaborando con un **desarrollador fullstack** encargado del backend. Aprendí a implementar **rutas seguras** y a consumir **APIs** (Instagram y LinkedIn) con       
-     autenticación. Este proyecto me permitió profundizar en **Angular** y adquirir experiencia en el uso de herramientas como **Postman** para pruebas de APIs y **Docker** para la gestión de contenedores y despliegue.
-     
-   - **Tecnologías**: Angular, TypeScript, Bootstrap, API REST, Postman, Docker  
-   - **Enlace**: [Visítalo aquí](https://pre-patxi.apps-ds.com/)  
-  
+
