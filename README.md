@@ -1,6 +1,7 @@
 ## <h2 align="center">👋 Hola, soy Rubén Romero Caballero</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hola+👋;¡Bienvenido+a+mi+perfil+de+GitHub!+🤗;Mi+nombre+es+Rubén+Romero+Caballero+👨;;Me+apasiona+la+programación+💻;Me+encanta+compartir+conocimientos+📚;Soy+un+entusiasta+de+resolver+problemas+🧩;Soy+aprendiz+de+por+vida+📖;Me+gustaría+ser+contribuyente+de+código+abierto+🌐;Programar+es+mi+pasión+❤️;Soy+un+entusiasta+de+la+tecnología+🚀;Disfruto+enseñar+a+otros+🎓;Siempre+soy+curioso+y+creativo+🧠)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=CCCCCC&size=35&center=true&vCenter=true&width=1000&lines=Hola+👋;¡Bienvenido+a+mi+perfil+de+GitHub!+🤗;Mi+nombre+es+Rubén+Romero+Caballero+👨;;Me+apasiona+la+programación+💻;Me+encanta+compartir+conocimientos+📚;Soy+un+entusiasta+de+resolver+problemas+🧩;Soy+aprendiz+de+por+vida+📖;Me+gustaría+ser+contribuyente+de+código+abierto+🌐;Programar+es+mi+pasión+❤️;Soy+un+entusiasta+de+la+tecnología+🚀;Disfruto+enseñar+a+otros+🎓;Siempre+soy+curioso+y+creativo+🧠)](https://git.io/typing-svg)
+
 
 <!-- ILLUSTRATION'S IMAGE -->
 <img align="right" alt="coding" width="400" src="https://technostupid.com/frontend/images/95116-coder.gif">
