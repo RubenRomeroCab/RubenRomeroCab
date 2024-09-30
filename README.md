@@ -13,15 +13,6 @@ Mi proyecto actual
 <!-- DESCRIPTION -->
 👨🏻‍💻 **Rubén Romero Caballero**
 
-- Apasionado por la programación 💻  
-- Me encanta compartir conocimiento 📚  
-- Entusiasta en resolver problemas 🧩  
-- Aprendiz de por vida 📖  
-- Futuro contribuyente de código abierto 🌐  
-- Entusiasta de la tecnología 🚀  
-- Disfruto enseñando a otros 🎓  
-- Siempre curioso y creativo 🧠
-
 <!-- LANGUAGE & TOOLS -->
 ### 🛠️ Lenguajes y Herramientas
 
