@@ -7,7 +7,7 @@
 
 Mi proyecto actual  
 **¡Visítalo aquí!**  
-<a href="https://compra-venta-1.vercel.app/home" target="_blank" rel="noopener noreferrer">https://compra-venta-1.vercel.app/home</a>
+
 
 <!-- LANGUAGE & TOOLS -->
 ### 🛠️ Lenguajes y Herramientas
@@ -82,9 +82,6 @@ Mi proyecto actual
 
 ### 🚀 Proyectos:
 
-1. **E-commerce de palés de Amazon**  
-   - **Descripción**: Plataforma que permite a los usuarios comprar palés de productos de Amazon, integrando pasarelas de pago como Stripe.  
-   - **Tecnologías**: Angular, Bootstrap, Stripe, Node.js  
-   - **Enlace**: [Visítalo aquí](https://compra-venta-1.vercel.app/home)
+
 
 
