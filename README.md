@@ -85,13 +85,14 @@ https://www.toplotes.com
 🛒 Venta de Palés e Ítems
 
 Proyecto de e-commerce desarrollado con Angular.
-Características principales:
 https://www.toplotes.com
 
-Catálogo interactivo con productos.
-Gestión de carrito para añadir y eliminar ítems.
-Cálculo de precios con IVA.
-Opciones de pago dinámicas y formulario validado.
+Características principales:
+
+Catálogo interactivo con productos. <br>
+Gestión de carrito para añadir y eliminar ítems.<br>
+Cálculo de precios con IVA.<br>
+Opciones de pago dinámicas y formulario validado.<br>
 
 
 
