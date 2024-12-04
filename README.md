@@ -4,11 +4,11 @@
 
 <!-- ILLUSTRATION'S IMAGE -->
 <img align="right" alt="coding" width="500" src="https://technostupid.com/frontend/images/95116-coder.gif">
-<!--
+
 Mi proyecto actual  
 **¡Visítalo aquí!**  
+https://www.toplotes.com
 
--->
 <!-- LANGUAGE & TOOLS -->
 ### 🛠️ Lenguajes y Herramientas
 
@@ -81,6 +81,18 @@ Mi proyecto actual
 - **LinkedIn**: [Rubén Romero Caballero](https://www.linkedin.com/in/rubén-romero-caballero)
 
 ### 🚀 Proyectos:
+
+🛒 Venta de Palés e Ítems
+
+Proyecto de e-commerce desarrollado con Angular.
+Características principales:
+https://www.toplotes.com
+
+Catálogo interactivo con productos.
+Gestión de carrito para añadir y eliminar ítems.
+Cálculo de precios con IVA.
+Opciones de pago dinámicas y formulario validado.
+
 
 
 
