@@ -7,7 +7,8 @@ Mi proyecto actual  <br>
 **¡Visítalo aquí!**  <br>
 https://www.toplotes.com <br>
 </p>
-
+<br>
+<br>
 <p align="center">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=RubenRomeroCab&theme=gotham&show_icons=true" alt="RubenRomeroCab"/>
 </p>
@@ -85,7 +86,7 @@ https://www.toplotes.com <br>
 ### 📫 Cómo contactarme:
  **Email**: rubenromerodev@gmail.com  
  **LinkedIn**: [Rubén Romero Caballero](https://www.linkedin.com/in/rubén-romero-caballero)
-
+---
 ### 🚀 Proyectos:
 
 #### 🛒 Venta de Palés e Ítems
