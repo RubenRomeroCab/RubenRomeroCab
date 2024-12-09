@@ -16,7 +16,7 @@ https://www.toplotes.com <br>
 ### 🛠️ Lenguajes y Herramientas
 
 
-
+<p align="center">
 <table>
   <tr>
     <th style="text-align:center;">Lenguajes</th>
@@ -79,7 +79,7 @@ https://www.toplotes.com <br>
     <td align="center"></td>
   </tr>
 </table>
-
+</p>
 ### 📫 Cómo contactarme:
 
 - **Email**: rubenromerodev@gmail.com  
