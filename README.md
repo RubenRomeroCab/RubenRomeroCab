@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2>Mi proyecto actual</h2>
-  <h3>¡Visítalo aquí!</h3>
+  <p>¡Visítalo aquí!</p>
   <a href="https://www.toplotes.com" style="font-size: 24px; color: #1a73e8; text-decoration: none;">https://www.toplotes.com</a>
 </div>
 <br>
