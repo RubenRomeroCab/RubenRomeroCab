@@ -80,27 +80,38 @@ https://www.toplotes.com <br>
   </tr>
 </table>
 
-<p align="center">
-###📫 Cómo contactarme:
+<div align="center">
 
+### 📫 Cómo contactarme:
 - **Email**: rubenromerodev@gmail.com  
 - **LinkedIn**: [Rubén Romero Caballero](https://www.linkedin.com/in/rubén-romero-caballero)
 
 ### 🚀 Proyectos:
 
-🛒 Venta de Palés e Ítems
+#### 🛒 Venta de Palés e Ítems
+Proyecto de e-commerce desarrollado con Angular.  
+[Visítalo aquí](https://www.toplotes.com)
 
-Proyecto de e-commerce desarrollado con Angular.
-https://www.toplotes.com
+**Características principales:**
+- Catálogo interactivo con productos.  
+- Gestión de carrito para añadir y eliminar ítems.  
+- Cálculo de precios con IVA.  
+- Opciones de pago dinámicas y formulario validado.  
 
-Características principales:
+---
 
-Catálogo interactivo con productos. <br>
-Gestión de carrito para añadir y eliminar ítems.<br>
-Cálculo de precios con IVA.<br>
-Opciones de pago dinámicas y formulario validado.<br>
-</p>
+#### 🎬 Películas Favoritas
+Aplicación en Angular donde los usuarios suben películas y votan por sus favoritas.  
+Implementa Firebase para backend, autenticación y base de datos.  
+[Visítalo aquí](https://www.peliculasfavoritas.com)
 
+**Características principales:**
+- Subir y votar por películas favoritas.  
+- Autenticación de usuarios con Firebase.  
+- Uso de directivas, pipes y guards en Angular.  
+- Base de datos en tiempo real con Firebase.  
+
+</div>
 
 
 
