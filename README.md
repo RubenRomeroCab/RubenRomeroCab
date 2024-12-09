@@ -12,6 +12,8 @@ https://www.toplotes.com
 <!-- LANGUAGE & TOOLS -->
 ### 🛠️ Lenguajes y Herramientas
 
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=RubenRomeroCab&theme=gotham&show_icons=true" alt="RubenRomeroCab"/>
+
 <table>
   <tr>
     <th style="text-align:center;">Lenguajes</th>
