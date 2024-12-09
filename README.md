@@ -3,10 +3,10 @@
 <!-- ILLUSTRATION'S IMAGE -->
 
 <div align="center">
-  <p>Mi proyecto actual</p>
+  <h3>Mi proyecto actual</h3>
   <p>¡Visítalo aquí!</p>
   <a href="https://www.toplotes.com" style="font-size: 24px; color: #1a73e8; text-decoration: none;">https://www.toplotes.com</a>
-  <h3> </h3>
+
 </div>
 <br>
 <br>
