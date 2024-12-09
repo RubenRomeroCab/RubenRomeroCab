@@ -64,9 +64,9 @@
       </a>
     </td>
     <td align="center">
-     
+      <a href="https://git-scm.com/">
         <img height="48px" width="48px" alt="Git Icon" src="https://skillicons.dev/icons?i=git"/>
-      
+      <a>
     </td>
   </tr>
   <tr>
