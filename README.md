@@ -2,11 +2,11 @@
 
 <!-- ILLUSTRATION'S IMAGE -->
 
-
+<p align="center">
 Mi proyecto actual  
 **¡Visítalo aquí!**  
 https://www.toplotes.com
-
+</p>
 
 <p align="center">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=RubenRomeroCab&theme=gotham&show_icons=true" alt="RubenRomeroCab"/>
