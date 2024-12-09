@@ -13,8 +13,9 @@ https://www.toplotes.com <br>
 </p>
 
 <!-- LANGUAGE & TOOLS -->
+<p align="center">
 ### 🛠️ Lenguajes y Herramientas
-
+</p>
 
 <table align="center">
   <tr>
@@ -78,6 +79,8 @@ https://www.toplotes.com <br>
     <td align="center"></td>
   </tr>
 </table>
+
+<p align="center">
 ### 📫 Cómo contactarme:
 
 - **Email**: rubenromerodev@gmail.com  
@@ -96,7 +99,7 @@ Catálogo interactivo con productos. <br>
 Gestión de carrito para añadir y eliminar ítems.<br>
 Cálculo de precios con IVA.<br>
 Opciones de pago dinámicas y formulario validado.<br>
-
+</p>
 
 
 
