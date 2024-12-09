@@ -81,7 +81,7 @@ https://www.toplotes.com <br>
 </table>
 
 <p align="center">
-### 📫 Cómo contactarme:
+###📫 Cómo contactarme:
 
 - **Email**: rubenromerodev@gmail.com  
 - **LinkedIn**: [Rubén Romero Caballero](https://www.linkedin.com/in/rubén-romero-caballero)
