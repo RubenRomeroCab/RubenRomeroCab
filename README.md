@@ -8,11 +8,14 @@ Mi proyecto actual
 https://www.toplotes.com
 
 
+<p align="center">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=RubenRomeroCab&theme=gotham&show_icons=true" alt="RubenRomeroCab"/>
+</p>
 
 <!-- LANGUAGE & TOOLS -->
 ### 🛠️ Lenguajes y Herramientas
 
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=RubenRomeroCab&theme=gotham&show_icons=true" alt="RubenRomeroCab"/>
+
 
 <table>
   <tr>
