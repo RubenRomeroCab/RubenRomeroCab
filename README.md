@@ -84,12 +84,14 @@ https://www.toplotes.com <br>
 <div align="center">
 
 ### 📫 Cómo contactarme:
- **Email**: rubenromerodev@gmail.com  
- **LinkedIn**: [Rubén Romero Caballero](https://www.linkedin.com/in/rubén-romero-caballero)
+**Email**: rubenromerodev@gmail.com  
+**LinkedIn**: [Rubén Romero Caballero](https://www.linkedin.com/in/rubén-romero-caballero)
+
 ---
+
 ### 🚀 Proyectos:
 
-#### 🛒 Venta de Palés e Ítems
+### 🛒 Venta de Palés e Ítems
 Proyecto de e-commerce desarrollado con Angular.  
 [Visítalo aquí](https://www.toplotes.com)
 
@@ -101,7 +103,7 @@ Opciones de pago dinámicas y formulario validado
 
 ---
 
-#### 🎬 Películas Favoritas
+### 🎬 Películas Favoritas
 Aplicación en Angular donde los usuarios suben películas y votan por sus favoritas.  
 Implementa Firebase para backend, autenticación y base de datos.  
 [Visítalo aquí](https://www.peliculasfavoritas.com)
