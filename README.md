@@ -17,68 +17,68 @@ https://www.toplotes.com <br>
 
 
 <p align="center">
-<table>
-  <tr>
-    <th style="text-align:center;">Lenguajes</th>
-    <th style="text-align:center;">Herramientas</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img height="48px" width="48px" alt="HTML Icon" src="https://skillicons.dev/icons?i=html"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://code.visualstudio.com/">
-        <img height="48px" width="48px" alt="VS-Code Icon" src="https://skillicons.dev/icons?i=vscode"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://angular.io/">
-        <img height="48px" width="48px" alt="Angular Icon" src="https://skillicons.dev/icons?i=angular"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://getbootstrap.com/">
-        <img height="48px" width="48px" alt="Bootstrap Icon" src="https://skillicons.dev/icons?i=bootstrap"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img height="48px" width="48px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/">
-        <img height="48px" width="48px" alt="GitHub Icon" src="https://skillicons.dev/icons?i=github"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img height="48px" width="48px" alt="JavaScript Icon" src="https://skillicons.dev/icons?i=javascript"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/">
-        <img height="48px" width="48px" alt="Git Icon" src="https://skillicons.dev/icons?i=git"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.java.com/">
-        <img height="48px" width="48px" alt="Java Icon" src="https://skillicons.dev/icons?i=java"/>
-      </a>
-    </td>
-    <td align="center"></td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <th style="text-align:center;">Lenguajes</th>
+      <th style="text-align:center;">Herramientas</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+          <img height="48px" width="48px" alt="HTML Icon" src="https://skillicons.dev/icons?i=html"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://code.visualstudio.com/">
+          <img height="48px" width="48px" alt="VS-Code Icon" src="https://skillicons.dev/icons?i=vscode"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://angular.io/">
+          <img height="48px" width="48px" alt="Angular Icon" src="https://skillicons.dev/icons?i=angular"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://getbootstrap.com/">
+          <img height="48px" width="48px" alt="Bootstrap Icon" src="https://skillicons.dev/icons?i=bootstrap"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+          <img height="48px" width="48px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/">
+          <img height="48px" width="48px" alt="GitHub Icon" src="https://skillicons.dev/icons?i=github"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <img height="48px" width="48px" alt="JavaScript Icon" src="https://skillicons.dev/icons?i=javascript"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://git-scm.com/">
+          <img height="48px" width="48px" alt="Git Icon" src="https://skillicons.dev/icons?i=git"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.java.com/">
+          <img height="48px" width="48px" alt="Java Icon" src="https://skillicons.dev/icons?i=java"/>
+        </a>
+      </td>
+      <td align="center"></td>
+    </tr>
+  </table>
 </p>
 ### 📫 Cómo contactarme:
 
