@@ -3,9 +3,9 @@
 <!-- ILLUSTRATION'S IMAGE -->
 
 <p align="center">
-Mi proyecto actual  <br>
-**¡Visítalo aquí!**  <br>
-https://www.toplotes.com <br>
+  <h2>Mi proyecto actual</h2>  
+  <h3><b>¡Visítalo aquí!</b></h3>  
+  <a href="https://www.toplotes.com" style="font-size: 24px; color: #1a73e8; text-decoration: none;">https://www.toplotes.com</a>
 </p>
 <br>
 <br>
@@ -14,10 +14,7 @@ https://www.toplotes.com <br>
 </p>
 
 <!-- LANGUAGE & TOOLS -->
-<p align="center">
-### 🛠️ Lenguajes y Herramientas
-</p>
-
+<h3 align="center">🛠️ Lenguajes y Herramientas</h3>
 <table align="center">
   <tr>
     <th style="text-align:center;">Lenguajes</th>
