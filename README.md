@@ -93,10 +93,10 @@ Proyecto de e-commerce desarrollado con Angular.
 [Visítalo aquí](https://www.toplotes.com)
 
 **Características principales:**
-- Catálogo interactivo con productos.  
-- Gestión de carrito para añadir y eliminar ítems.  
-- Cálculo de precios con IVA.  
-- Opciones de pago dinámicas y formulario validado.  
+Catálogo interactivo con productos  
+Gestión de carrito para añadir y eliminar ítems  
+Cálculo de precios con IVA  
+Opciones de pago dinámicas y formulario validado  
 
 ---
 
@@ -106,12 +106,11 @@ Implementa Firebase para backend, autenticación y base de datos.
 [Visítalo aquí](https://www.peliculasfavoritas.com)
 
 **Características principales:**
-- Subir y votar por películas favoritas.  
-- Autenticación de usuarios con Firebase.  
-- Uso de directivas, pipes y guards en Angular.  
-- Base de datos en tiempo real con Firebase.  
+Subir y votar por películas favoritas  
+Autenticación de usuarios con Firebase  
+Uso de directivas, pipes y guards en Angular  
+Base de datos en tiempo real con Firebase  
 
 </div>
-
 
 
