@@ -104,7 +104,7 @@ Opciones de pago dinámicas y formulario validado
 ### 🎬 Películas Favoritas
 Aplicación en Angular donde los usuarios suben películas y votan por sus favoritas.  
 Implementa Firebase para backend, autenticación y base de datos.  
-[Visítalo aquí](https://www.peliculasfavoritas.com)
+[Visítalo aquí](https://discord-movies.apps-ds.com/)
 
 **Características principales:**
 Subir y votar por películas favoritas  
