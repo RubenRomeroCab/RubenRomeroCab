@@ -3,8 +3,8 @@
 <!-- ILLUSTRATION'S IMAGE -->
 
 <div align="center">
-  <p>Mi proyecto actual</p>
-  <p>¡Visítalo aquí!</p>
+  <p style="font-size: 32px; color: #4CAF50;">Mi proyecto actual</p>
+  <p style="font-size: 28px; color: #FF5722;">¡Visítalo aquí!</p>
   <a href="https://www.toplotes.com" style="font-size: 24px; color: #1a73e8; text-decoration: none;">https://www.toplotes.com</a>
 </div>
 <br>
