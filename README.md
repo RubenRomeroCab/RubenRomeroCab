@@ -3,9 +3,9 @@
 <!-- ILLUSTRATION'S IMAGE -->
 
 <p align="center">
-Mi proyecto actual  
-**¡Visítalo aquí!**  
-https://www.toplotes.com
+Mi proyecto actual  <br>
+**¡Visítalo aquí!**  <br>
+https://www.toplotes.com <br>
 </p>
 
 <p align="center">
