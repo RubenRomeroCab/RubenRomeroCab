@@ -2,11 +2,11 @@
 
 <!-- ILLUSTRATION'S IMAGE -->
 
-
-  <h2>Mi proyecto actual</h2>
+<div align="center">
+  <p>Mi proyecto actual</p>
   <p>¡Visítalo aquí!</p>
   <a href="https://www.toplotes.com" style="font-size: 24px; color: #1a73e8; text-decoration: none;">https://www.toplotes.com</a>
-
+</div>
 <br>
 <br>
 <p align="center">
