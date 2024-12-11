@@ -6,7 +6,6 @@
   <h3>Mi proyecto actual</h3>
   <p>¡Visítalo aquí!</p>
   <a href="https://www.toplotes.com" style="font-size: 24px; color: #1a73e8; text-decoration: none; target="_blank"">https://www.toplotes.com</a>
-
 </div>
 <br>
 <br>
