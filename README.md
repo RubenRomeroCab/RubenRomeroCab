@@ -100,17 +100,6 @@ Opciones de pago dinámicas y formulario validado
 
 ---
 
-### 🎬 Películas Favoritas
-Aplicación en Angular donde los usuarios suben películas y votan por sus favoritas.  
-Implementa Firebase para backend, autenticación y base de datos.  
-[Visítalo aquí](https://discord-movies.apps-ds.com/)
-
-**Características principales:**
-Subir y votar por películas favoritas  
-Autenticación de usuarios con Firebase  
-Uso de directivas, pipes y guards en Angular  
-Base de datos en tiempo real con Firebase  
-
 
 
 ### 🛡️ Tarkov Vault
@@ -119,11 +108,11 @@ Proyecto de gestión de objetos/items inspirado en Escape from Tarkov, desarroll
 [Visítalo aquí](https://taarkovault.vercel.app/boss) <!-- Pon aquí el link a tu deploy si existe -->
 
 **Características principales:**
-- Catálogo de objetos con imágenes, descripción y estado “obtenido” (verde/rojo)  
-- Creación, edición y reinicio de items desde panel admin  
-- Autenticación de usuarios con JWT  
-- Backend seguro con endpoints REST en Spring Boot  
-- Frontend dinámico con Angular y Bootstrap  
+Catálogo de objetos con imágenes, descripción y estado “obtenido” (verde/rojo)  
+Creación, edición y reinicio de items desde panel admin  
+Autenticación de usuarios con JWT  
+Backend seguro con endpoints REST en Spring Boot  
+Frontend dinámico con Angular y Bootstrap  
 
 **Tecnologías utilizadas:**
 Angular, Spring Boot, JWT, Bootstrap, Java, TypeScript
